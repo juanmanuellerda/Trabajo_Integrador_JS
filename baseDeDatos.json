@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2",
+    "brand": "Peugeot",
+    "model": "207",
+    "year": 2009,
+    "price": "$ 3 Millones"
+  },
+  {
+    "id": "3",
+    "brand": "Fiat",
+    "model": "Palio",
+    "year": 2003,
+    "price": "$ 4 Millones"
+  },
+  {
+    "id": "4",
+    "brand": "Peugeot",
+    "model": "208",
+    "year": 2020,
+    "price": "$ 4,2 Millones"
+  },
+  {
+    "id": 4,
+    "brand": "1",
+    "model": "2",
+    "year": "3",
+    "price": "4"
+  }
+]
