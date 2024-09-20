@@ -3,8 +3,8 @@ const readF = require("./read.js");
 const writeF = require("./write.js");
 
 const deleteF = (id_baseDeDatos) => {
+    id_baseDeDatos = parseInt(id_baseDeDatos);
     let data = readF();
-
     let datafiltered = data.filter(data => data.id !== id_baseDeDatos);
     console.log(datafiltered);
     writeF(datafiltered);
