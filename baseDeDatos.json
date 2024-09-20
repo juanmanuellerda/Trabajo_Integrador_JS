@@ -17,7 +17,28 @@
 		"id": 3,
 		"brand": "Fiat",
 		"model": "Palio",
-		"year": 2008,
-		"price": "$ 4.55 Millones"
+		"year": 2003,
+		"price": "$ 4 Millones"
+	},
+	{
+		"id": 4,
+		"brand": "Peugeot",
+		"model": "208",
+		"year": 2020,
+		"price": "$ 4,2 Millones"
+	},
+	{
+		"id": 5,
+		"brand": "Volkswagen",
+		"model": "Polo",
+		"year": 2018,
+		"price": "$ 3,7 Millones"
+	},
+	{
+		"id": 6,
+		"brand": "Fiat",
+		"model": "Uno",
+		"year": 2002,
+		"price": "$ 2,1 Millones"
 	}
 ]
